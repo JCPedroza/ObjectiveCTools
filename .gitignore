@@ -1,6 +1,7 @@
 # Xcode
 #
 ObjectiveCTools-Prefix.pch
+main.m
 build/
 *.pbxuser
 !default.pbxuser
